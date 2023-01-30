@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Slimo300
-- 👀 I’m interested in web development, sports and cinematography
+- 👀 I’m interested in web development, sports and cinema
 - 🌱 I’m currently learning cloud development and microservices
 
 <!---
