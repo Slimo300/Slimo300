@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Slimo300
-- 👀 I’m interested in web development, sports and cinema
-- 🌱 I’m currently learning cloud development and microservices
+
 
 <!---
 Slimo300/Slimo300 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
